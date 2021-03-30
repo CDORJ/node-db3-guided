@@ -10,7 +10,7 @@ Guided project for **Node DB3** Module.
 
 ## Project Setup
 
-- [ ] clone this repository.
+- [x] clone this repository.
 - [ ] cd into the project folder.
 - [ ] type `npm i` to download dependencies.
 - [ ] type `npm run server` to start the API.
